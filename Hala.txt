@@ -1,0 +1,4 @@
+Commands to upload changes:
+git add .
+git commit -m 'Initial commit by Hala'
+git push origin main
